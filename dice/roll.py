@@ -6,4 +6,8 @@ def roll(sides):
 rolled = roll(6)
 print(rolled)
 
-
+name = {}
+name['cell'] = "207.2.2.2"
+print(name)
+name['ccode'] = rolled
+print(rolled)
